@@ -1,0 +1,54 @@
+{
+  "SAO FRANCISCO DE ITABAPOANA-RJ": {
+    "lat": -21.4743,
+    "lon": -41.1172
+  },
+  "RIO DE JANEIRO-RJ": {
+    "lat": -22.9110137,
+    "lon": -43.2093727
+  },
+  "MARICA-RJ": {
+    "lat": -22.9088759,
+    "lon": -42.8171914
+  },
+  "MACAE-RJ": {
+    "lat": -22.2828305,
+    "lon": -41.9649091
+  },
+  "VITORIA-ES": {
+    "lat": -20.2527011,
+    "lon": -40.2865765
+  },
+  "SAO GONCALO-RJ": {
+    "lat": -22.821635,
+    "lon": -42.9956797
+  },
+  "CAMPOS DOS GOYTACAZES-RJ": {
+    "lat": -21.7546,
+    "lon": -41.3242
+  },
+  "SAO MATEUS-ES": {
+    "lat": -18.6159803,
+    "lon": -39.7334221
+  },
+  "SAQUAREMA-RJ": {
+    "lat": -22.8711796,
+    "lon": -42.5249867
+  },
+  "SEROPEDICA-RJ": {
+    "lat": -22.7438887,
+    "lon": -43.6991998
+  },
+  "SERRA-ES": {
+    "lat": -20.1252961,
+    "lon": -40.3064477
+  },
+  "TOMBOS-MG": {
+    "lat": -20.9083753,
+    "lon": -42.0270243
+  },
+  "VIANA-ES": {
+    "lat": -20.3899721,
+    "lon": -40.4913681
+  }
+}

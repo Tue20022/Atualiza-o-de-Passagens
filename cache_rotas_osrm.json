@@ -1,0 +1,130 @@
+{
+  "SAO FRANCISCO DE ITABAPOANA-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 334041.3,
+    "duracao_segundos": 16421.1
+  },
+  "RIO DE JANEIRO-RJ|MARICA-RJ|driving": {
+    "distancia_metros": 56864,
+    "duracao_segundos": 3519.8
+  },
+  "SAO FRANCISCO DE ITABAPOANA-RJ|MACAE-RJ|driving": {
+    "distancia_metros": 168069,
+    "duracao_segundos": 8973.6
+  },
+  "MACAE-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 196480.9,
+    "duracao_segundos": 9715.3
+  },
+  "SAO FRANCISCO DE ITABAPOANA-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 222030.8,
+    "duracao_segundos": 12069.2
+  },
+  "VITORIA-ES|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 544968.3,
+    "duracao_segundos": 27339.1
+  },
+  "SAO GONCALO-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 44183.1,
+    "duracao_segundos": 2582.2
+  },
+  "SAO GONCALO-RJ|MACAE-RJ|driving": {
+    "distancia_metros": 154855.1,
+    "duracao_segundos": 7742.2
+  },
+  "SAO GONCALO-RJ|CAMPOS DOS GOYTACAZES-RJ|driving": {
+    "distancia_metros": 245848,
+    "duracao_segundos": 11844.3
+  },
+  "CAMPOS DOS GOYTACAZES-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 287387.6,
+    "duracao_segundos": 13861.5
+  },
+  "SAO GONCALO-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 503826.1,
+    "duracao_segundos": 25355.3
+  },
+  "SAO MATEUS-ES|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 758900.2,
+    "duracao_segundos": 39812.7
+  },
+  "SAO MATEUS-ES|MACAE-RJ|driving": {
+    "distancia_metros": 592927.9,
+    "duracao_segundos": 32365.2
+  },
+  "SAO MATEUS-ES|CAMPOS DOS GOYTACAZES-RJ|driving": {
+    "distancia_metros": 473517.5,
+    "duracao_segundos": 26236.2
+  },
+  "SAO MATEUS-ES|VITORIA-ES|driving": {
+    "distancia_metros": 236302,
+    "duracao_segundos": 13814.4
+  },
+  "SAQUAREMA-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 107151.5,
+    "duracao_segundos": 6187.3
+  },
+  "SAQUAREMA-RJ|MACAE-RJ|driving": {
+    "distancia_metros": 149557.7,
+    "duracao_segundos": 7815.4
+  },
+  "SAQUAREMA-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 480883.8,
+    "duracao_segundos": 25409.5
+  },
+  "SEROPEDICA-RJ|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 79164.8,
+    "duracao_segundos": 3876.5
+  },
+  "RIO DE JANEIRO-RJ|MACAE-RJ|driving": {
+    "distancia_metros": 188332.6,
+    "duracao_segundos": 9338.3
+  },
+  "RIO DE JANEIRO-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 537303.6,
+    "duracao_segundos": 26951.4
+  },
+  "VITORIA-ES|MACAE-RJ|driving": {
+    "distancia_metros": 378996,
+    "duracao_segundos": 19891.6
+  },
+  "SERRA-ES|RIO DE JANEIRO-RJ|driving": {
+    "distancia_metros": 548857.7,
+    "duracao_segundos": 27662.4
+  },
+  "SERRA-ES|MACAE-RJ|driving": {
+    "distancia_metros": 382885.4,
+    "duracao_segundos": 20214.9
+  },
+  "SERRA-ES|CAMPOS DOS GOYTACAZES-RJ|driving": {
+    "distancia_metros": 263474.9,
+    "duracao_segundos": 14085.9
+  },
+  "SERRA-ES|VITORIA-ES|driving": {
+    "distancia_metros": 18286.3,
+    "duracao_segundos": 1245.7
+  },
+  "TOMBOS-MG|MACAE-RJ|driving": {
+    "distancia_metros": 273663.1,
+    "duracao_segundos": 15049.9
+  },
+  "VIANA-ES|MACAE-RJ|driving": {
+    "distancia_metros": 345794.1,
+    "duracao_segundos": 18483
+  },
+  "MACAE-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 379982,
+    "duracao_segundos": 19932
+  },
+  "MACAE-RJ|CAMPOS DOS GOYTACAZES-RJ|driving": {
+    "distancia_metros": 122004,
+    "duracao_segundos": 6421
+  },
+  "CAMPOS DOS GOYTACAZES-RJ|VITORIA-ES|driving": {
+    "distancia_metros": 259964.6,
+    "duracao_segundos": 13750.9
+  },
+  "VITORIA-ES|CAMPOS DOS GOYTACAZES-RJ|driving": {
+    "distancia_metros": 259585.5,
+    "duracao_segundos": 13762.6
+  }
+}
